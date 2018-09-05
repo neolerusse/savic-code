@@ -14,7 +14,7 @@ password                   hit the enter key
 create database savic;
 use savic;
 source C:\xampp\htdocs\db.sql
-if all goes well, open a web browser and sasir:
+if all goes well, open a web browser and type:
 http:\\localhost/savic-code/public/index.php hit the enter key
 
 ------------------------------------------------------------------------------------------------------------------------------
